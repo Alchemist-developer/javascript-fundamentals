@@ -1,4 +1,4 @@
-# Exercícios - Curso Fundamentos de Programação
+# Exercícios Fundamentais - Programação JS
 
 1. Crie uma função que retorna a string "Olá, " concatenada com um argumento text (a ser passado para a função) e com ponto de exclamação "!" no final.
 * Exemplos:
